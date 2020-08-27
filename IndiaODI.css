@@ -1,0 +1,27 @@
+ol a:hover{
+	color: black;
+}
+
+
+body{
+	background-color: rgb(62, 230, 221);
+	font-family: Segoe Print;
+	font-weight: bold;
+	font-size: 23px;
+	
+
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+
+ol a{
+	text-decoration: none;
+	color: red;
+}
+
+ol{
+	text-align: center;
+}
